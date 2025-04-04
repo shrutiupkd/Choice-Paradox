@@ -53,7 +53,7 @@ much role in the price of property.
 
 
 Figure 4: price v/s security and parking
-[image](https://github.com/user-attachments/assets/26239558-e7c8-4d11-9313-d4d20b161f54)
+![image](https://github.com/user-attachments/assets/26239558-e7c8-4d11-9313-d4d20b161f54)
 
 In the above diagram we can see that all day security and parking are factors that directly
 affect the price of property. Properties with both these facilities tend to have higher prices
@@ -61,13 +61,13 @@ than properties without them.
 
 
 Figure 5: price v/s gas, lifts
-[image](https://github.com/user-attachments/assets/e510be02-48b5-4e1a-a8b5-ec2eee898c0b)
+![image](https://github.com/user-attachments/assets/e510be02-48b5-4e1a-a8b5-ec2eee898c0b)
 
 In the above figure we can see that properties which have gas connections and lifts are higher
 in price.
 
 
 Figure 6: price v/s jogging track, gardens
-[image](https://github.com/user-attachments/assets/676f5a74-0d9b-41af-8f0a-cca2ba49b913)
+![image](https://github.com/user-attachments/assets/676f5a74-0d9b-41af-8f0a-cca2ba49b913)
 
 In above figure we can see that price is not much affected with jogging track and gardens
